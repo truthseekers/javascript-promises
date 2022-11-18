@@ -12,4 +12,4 @@ Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Anythin
 
 ## Instructions
 
-https://truthseekers.io/javascript-promise
+https://truthseekers.io/javascript-promises
